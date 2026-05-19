@@ -268,7 +268,7 @@ export const PROJECTS = [
   {
     title: "GitExplorer",
     description:
-      'GitExplorer is a next-generation platform that redefines GitHub discovery by showcasing high-quality open-source projects through a structured, real-time, and visually engaging experience.',
+      'Embark on a journey into the future of GitHub discovery with GitExplorer a next-generation platform designed to transform how developers explore open-source projects, Moving beyond cluttered feeds and endless scrolling, it delivers a structured, real-time, and visually engaging experience that highlights high-quality repositories across every domain.',
     image: "/projects/project-2.png",
     link: "https://www.akarshxo.org",
   },
