@@ -59,14 +59,14 @@ export const ContactForm = () => {
         transition={{ duration: 0.5 }}
         className="text-4xl font-bold text-white mb-2 text-center"
       >
-        Get In{" "}
+        Contact{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-          Touch
+          Form
         </span>
       </motion.h2>
       <p className="text-gray-400 mb-10 text-center max-w-md">
         Have a project in mind or just want to say hi? Drop me a message and
-        I&apos;ll get back to you.
+        I&apos;I'll never share your data with anyone else. Pinky promise!.
       </p>
 
       <motion.form
