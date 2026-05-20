@@ -19,7 +19,7 @@ export const ProjectCard = ({
       href={link}
       target="_blank"
       rel="noreferrer noopener"
-      className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61] flex flex-col h-full"
+      className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]"
     >
       <Image
         src={src}
@@ -31,8 +31,8 @@ export const ProjectCard = ({
         priority
         loading="eager"
       />
-      <div className="relative p-4 flex flex-col flex-1">
-        <h1 className="text-2xl font-semibold text-white min-h-[80px] flex items-end">
+      <div className="relative p-4">
+        <h1 className="text-2xl font-semibold text-white">
           {title}
         </h1>
         <p className="mt-2 text-gray-300">{description}</p>
