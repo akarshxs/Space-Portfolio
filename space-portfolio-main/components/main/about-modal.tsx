@@ -52,7 +52,7 @@ export const AboutModal = () => {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.97 }}
       >
-        Learn More
+        View My Work
       </motion.button>
 
       {/* Modal Overlay */}
@@ -140,7 +140,7 @@ export const AboutModal = () => {
                         Hi! I&apos;m <span className="text-purple-400 font-semibold">Akarsh Tripathi</span>, a passionate Full Stack Software Engineer who loves building scalable, high-performance web applications. I specialize in the React / Next.js ecosystem paired with modern backends.
                       </p>
                       <p className="text-gray-300 leading-relaxed">
-                        I enjoy crafting seamless user experiences — from pixel-perfect UIs to robust API architectures. Whether it&apos;s a real-time app, a 3D interactive portfolio, or a data-driven dashboard, I bring both creativity and technical rigor to every project.
+                        I enjoy crafting seamless user experiences from pixel-perfect UIs to robust API architectures. Whether it&apos;s a real-time app, a 3D interactive portfolio, or a data-driven dashboard, I bring both creativity and technical rigor to every project.
                       </p>
 
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-2">
