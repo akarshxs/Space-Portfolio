@@ -66,7 +66,7 @@ export const ContactForm = () => {
       </motion.h2>
       <p className="text-gray-400 mb-10 text-center max-w-md">
         Have a project in mind or just want to say hi? Drop me a message and
-        I&apos;I'll never share your data with anyone else. Pinky promise!.
+        I&apos;ll never share your data with anyone else. Pinky promise!.
       </p>
 
       <motion.form
