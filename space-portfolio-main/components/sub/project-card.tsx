@@ -31,9 +31,10 @@ export const ProjectCard = ({
         priority
         loading="eager"
       />
-
       <div className="relative p-4">
-        <h1 className="text-2xl font-semibold text-white">{title}</h1>
+        <h1 className="text-2xl font-semibold text-white min-h-[64px] flex items-end">
+          {title}
+        </h1>
         <p className="mt-2 text-gray-300">{description}</p>
       </div>
     </Link>
