@@ -33,7 +33,7 @@ export const HeroContent = () => {
         >
           <span>
             Hey, I'm{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 whitespace-nowrap">
               Akarsh Tripathi
             </span>
           </span>
